@@ -4,6 +4,7 @@
 
 // Example for 5x5 NeoBFF - scrolls a message across the LED matrix.
 // Requires Adafruit_GFX, Adafruit_NeoPixel and Adafruit_NeoMatrix libraries.
+// Build 01-15-2023
 
 #include <Adafruit_GFX.h>       // Graphics library
 #include <Adafruit_NeoPixel.h>  // NeoPixel library
